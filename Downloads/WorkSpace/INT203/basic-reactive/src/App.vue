@@ -29,7 +29,7 @@ const colorMe = (myNote) => {
         </li>
       </ul>
     </div>
-    New note:
+    New note:..
     <input type="text" v-model="newNote" />
     <button @click="addNote">Add Note</button>
   </div>
